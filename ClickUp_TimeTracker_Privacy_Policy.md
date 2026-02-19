@@ -105,5 +105,5 @@ If this privacy policy is updated, the "Last updated" date at the top of this do
 
 If you have questions about this privacy policy or the extension's data practices, please contact:
 
-**EnSight Technologies**
+**Email**
 info@certaintechllc.com
